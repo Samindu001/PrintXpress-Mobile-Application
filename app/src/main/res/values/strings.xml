@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrintXpress</string>
+
+    <string-array name="card_sizes">
+        <item>Standard (90 x 54 mm)</item>
+        <item>Square (65 x 65 mm)</item>
+    </string-array>
+
+    <string-array name="paper_types">
+        <item>Matte</item>
+        <item>Glossy</item>
+        <item>Premium</item>
+    </string-array>
+
+    <string-array name="card_quantities">
+        <item>100 Cards</item>
+        <item>250 Cards</item>
+        <item>500 Cards</item>
+        <item>1000 Cards</item>
+    </string-array>
+</resources>
