@@ -1,0 +1,22 @@
+# Android
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log

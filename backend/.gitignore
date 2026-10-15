@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+printxpress.db
+printxpress.db-shm
+printxpress.db-wal
+*.log
